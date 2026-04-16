@@ -11,13 +11,21 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MiniBookService.Api
 build_property.RootNamespace = MiniBookService.Api
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\aksha\OneDrive\Desktop\Presidio\C#\Task10\MiniBookService.Api\
+=======
+build_property.ProjectDir = /Users/akshayaks/Desktop/Presidio/CSharp/Task10/MiniBookService.Api/
+>>>>>>> 357a48e (commit)
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\aksha\OneDrive\Desktop\Presidio\C#\Task10\MiniBookService.Api
+=======
+build_property.MSBuildProjectDirectory = /Users/akshayaks/Desktop/Presidio/CSharp/Task10/MiniBookService.Api
+>>>>>>> 357a48e (commit)
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 

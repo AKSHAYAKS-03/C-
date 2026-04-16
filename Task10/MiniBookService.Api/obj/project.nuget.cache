@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/L5/iha/opE=",
   "success": true,
   "projectFilePath": "C:\\Users\\aksha\\OneDrive\\Desktop\\Presidio\\C#\\Task10\\MiniBookService.Api\\MiniBookService.Api.csproj",
@@ -15,6 +16,23 @@
     "C:\\Users\\aksha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
     "C:\\Users\\aksha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
     "C:\\Users\\aksha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+=======
+  "dgSpecHash": "7zcJbtpYgbY=",
+  "success": true,
+  "projectFilePath": "/Users/akshayaks/Desktop/Presidio/CSharp/Task10/MiniBookService.Api/MiniBookService.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/akshayaks/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/microsoft.entityframeworkcore/10.0.6/microsoft.entityframeworkcore.10.0.6.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.6/microsoft.entityframeworkcore.abstractions.10.0.6.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.6/microsoft.entityframeworkcore.analyzers.10.0.6.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/microsoft.entityframeworkcore.inmemory/10.0.6/microsoft.entityframeworkcore.inmemory.10.0.6.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/swashbuckle.aspnetcore/10.1.7/swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.7/swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.7/swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "/Users/akshayaks/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.7/swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+>>>>>>> 357a48e (commit)
   ],
   "logs": []
 }

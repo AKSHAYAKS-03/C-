@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniBookService.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72374c1a136b060790bb60c0c539400b20aa010a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 357a48e (commit)
 [assembly: System.Reflection.AssemblyProductAttribute("MiniBookService.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniBookService.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

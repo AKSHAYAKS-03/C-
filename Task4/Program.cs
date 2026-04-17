@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+//Language Integrated Query
+//query collections like arrays, lists, or databases directly using C# syntax.
 class Student
 {
     public string Name { get; set; }

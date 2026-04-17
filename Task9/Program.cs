@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Reflection;
-
+//inspect class/methodd during runtime and call methods dynamically
 class Runnable : Attribute
 {
 }

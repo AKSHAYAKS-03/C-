@@ -6,7 +6,6 @@
 // All attached methods run
 
 
-// Delegate
 public delegate void ThresholdReachedHandler(int value);
 //  Delegate = method reference (function pointer)
 class Counter
@@ -64,15 +63,8 @@ class Program
     }
 }
 
-// Important Points
 
-// ✔ Method signature match aaganum
+//  Method signature match aaganum
 // (same return type + parameters)
 
-// ✔ Multiple methods kooda attach panna mudiyum
-
-// ✔ Mostly use pannuvanga:
-
-// events
-// callbacks
-// UI buttons click
+// Multiple methods kooda attach panna mudiyum
